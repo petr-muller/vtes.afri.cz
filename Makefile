@@ -1,4 +1,5 @@
 deploy:
+	git push
 	git -C themes/forty fetch origin
 	git -C themes/forty rebase origin/master
 	rm -rf public
