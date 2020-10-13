@@ -51,6 +51,10 @@ disqusShortname = ""
       name = "Tournaments"
       url = "tournaments"
 
+#    [[params.navigation.links]]
+#      name = "Decks"
+#      url = "decks"
+
     [[params.navigation.links]]
       name = "---"
       url = "#"
@@ -71,20 +75,19 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Afri plays Vampire: The Eternal Struggle"
-    subtitle = "Hi! My name is Petr, but my nickname is Afri."
+    subtitle = "Hi! My name is Petr. My nickname is Afri. I started playing VtES when Anarchs came out in 2003."
     buttonText = ""
 
 
   # Tiles Section
   [params.tiles]
-    enable = false
-    # Display your showcases here.
+    enable = true
 
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      title = "Summer Tournament in Brno"
+      subtitle = "0GW 3VP playing AUS OBF Black Hand in 15-player tournament"
+      image = "tournaments/enkidu.jpg"
+      url = "tournaments/20200725-brno"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
