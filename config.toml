@@ -86,7 +86,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Summer Tournament in Brno"
       subtitle = "0GW 3VP playing AUS OBF Black Hand in 15-player tournament"
-      image = "tournaments/enkidu.jpg"
+      image = "tournaments/blackhand.jpg"
       url = "tournaments/20200725-brno"
 
   [params.blog]
