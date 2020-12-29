@@ -11,6 +11,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
+  gac = "G-52HLNJZDEN"
   # You can use Markdown syntax for urls [text](//url.to/source)
   # To create multi-line text in strings use the """example Text""" format
   #
