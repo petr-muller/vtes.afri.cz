@@ -51,6 +51,9 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Tournaments"
       url = "tournaments"
+    [[params.navigation.links]]
+      name = "Decks"
+      url = "decks"
 
 #    [[params.navigation.links]]
 #      name = "Decks"
@@ -85,6 +88,11 @@ disqusShortname = ""
     enable = true
 
     [[params.tiles.showcase]]
+      title = "Nosferatu Royalty and Strohmann"
+      subtitle = "Nosferatu bigcaps with titles. A well-rounded toolbox that can adapt to different table positions and situations."
+      image = "decks/strohmann.png"
+      url = "decks/20211203-nosferatu-bigcap-toolbox"
+    [[params.tiles.showcase]]
       title = "Summer Tournament in Brno"
       subtitle = "0GW 3VP playing AUS OBF Black Hand in 15-player tournament"
       image = "tournaments/blackhand.jpg"
@@ -105,6 +113,12 @@ disqusShortname = ""
     buttonText = "Read tournament notes"
     url = "tournaments"
 
+  [params.three]
+    enable = false
+    title = "Decks"
+    subtitle = """I am a terrible deckbuilder: I mostly take ideas from elsewhere (usually TWDA) and try to adapt them. I like to take notes on how the decks are played."""
+    buttonText = "Read deck notes"
+    url = "decks"
 
   # Contact section
   [params.contact]
