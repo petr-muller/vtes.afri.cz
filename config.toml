@@ -88,6 +88,11 @@ disqusShortname = ""
     enable = true
 
     [[params.tiles.showcase]]
+      title = "Banu Haqim Legacy"
+      subtitle = "An experimental bruise bleed deck with Haqim's Law: Retribution and Quietus combat"
+      image = "decks/urshulgi.png"
+      url = "decks/20220109-banu-haqim-legacy"
+    [[params.tiles.showcase]]
       title = "Nosferatu Royalty and Strohmann"
       subtitle = "Nosferatu bigcaps with titles. A well-rounded toolbox that can adapt to different table positions and situations."
       image = "decks/strohmann.png"
