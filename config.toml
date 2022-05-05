@@ -88,6 +88,11 @@ disqusShortname = ""
     enable = true
 
     [[params.tiles.showcase]]
+      title = "Wagner's Wet Dream"
+      subtitle = "A Valkyrie swarm-bleed deck with Revolutionary Council as a finisher"
+      image = "decks/brunhilde.jpg"
+      url = "decks/20220505-wagners-wet-dream"
+    [[params.tiles.showcase]]
       title = "Banu Haqim Legacy"
       subtitle = "An experimental bruise bleed deck with Haqim's Law: Retribution and Quietus combat"
       image = "decks/urshulgi.png"
@@ -100,7 +105,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Summer Tournament in Brno"
       subtitle = "0GW 3VP playing AUS OBF Black Hand in 15-player tournament"
-      image = "tournaments/blackhand.jpg"
+      image = "tournaments/elimelech.png"
       url = "tournaments/20200725-brno"
 
   [params.blog]
