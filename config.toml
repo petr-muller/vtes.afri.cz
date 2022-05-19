@@ -88,6 +88,11 @@ disqusShortname = ""
     enable = true
 
     [[params.tiles.showcase]]
+      title = "Road to Pulled Fang #4"
+      subtitle = "0GW 0VP playing Enkidu Block in 21-player tournament in Hradec Králové, CZ"
+      image = "tournaments/20220514-hk.png"
+      url = "tournaments/20220519-road-to-pulled-fang-04"
+    [[params.tiles.showcase]]
       title = "Wagner's Wet Dream"
       subtitle = "A Valkyrie swarm-bleed deck with Revolutionary Council as a finisher"
       image = "decks/brunhilde.jpg"
