@@ -78,7 +78,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Afri plays Vampire: The Eternal Struggle"
+    title = "AFRI PLAYS VAMPIRE: THE ETERNAL STRUGGLE"
     subtitle = "Hi! My name is Petr. My nickname is Afri. I started playing VtES when Anarchs came out in 2003."
     buttonText = ""
 
@@ -88,7 +88,7 @@ disqusShortname = ""
     enable = true
 
     [[params.tiles.showcase]]
-      title = "Road to Pulled Fang #4"
+      title = "4th Road to Pulled Fang #11"
       subtitle = "0GW 0VP playing Enkidu Block in 21-player tournament in Hradec Králové, CZ"
       image = "tournaments/20220514-hk.png"
       url = "tournaments/20220519-road-to-pulled-fang-04"
