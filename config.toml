@@ -86,7 +86,11 @@ disqusShortname = ""
   # Tiles Section
   [params.tiles]
     enable = true
-
+    [[params.tiles.showcase]]
+      title = "5th Road to Pulled Fang #11"
+      subtitle = "0GW 1VP playing Infernal Princes of Anarchy in 20-player tournament in Brno, CZ"
+      image = "tournaments/arishat.png"
+      url = "tournaments/20220604-road-to-pulled-fang-05"
     [[params.tiles.showcase]]
       title = "4th Road to Pulled Fang #11"
       subtitle = "0GW 0VP playing Enkidu Block in 21-player tournament in Hradec Králové, CZ"
