@@ -58,7 +58,7 @@ decided not to mess with the deck I never played.
 
 ## Game 1: 1VP
 
-Marionette Bleed (Hřebi) →️ Salubri Marionette (Ondra) **3VP GW** →️ me 1VP →️ Inner Circle (Faldys) →️ Gangrel Combat (Martin)
+Marionette Bleed (Hrbi) →️ Salubri Marionette (Ondra) **3VP GW** →️ me 1VP →️ Inner Circle (Faldys) →️ Gangrel Combat (Martin)
 
 I had a reasonable crypt with a Prince, Baron, and Arishat. I started fast with
 a prince first and started chaining shifts. Faldys had `Mistress Fanchon`, but I
