@@ -13,6 +13,40 @@ categories:
 
 ---
 
+The Ministry got some sweet new toys in the 5th edition discipline revamp. `The
+Platinum Protocol` gave them a consistent stealth bleed capability on a
+single card, which can be made more potent with `Revelation of the Serpent`
+efficiently. A deck with a stealth-bleed backbone using these two cards can
+also use several multiact options, most of which are also very efficient. The
+Revelation modifier itself can unlock the bleeding vampire for the cost
+of burning two corruption counters, conveniently placed on minions by the
+Protocol. The latter card alone enables `Dabbler`, which *also* has a second
+blood-gaining mode when there is no utility in unlocking after the first action.
+Lastly, anarch vampires with Protean have access to `CrimethInc.` which unlocks
+a vampire after performing a successful anarch-requiring or anarch-making
+action.
+
+The new Ministry also have a very reasonable crypt: it is possible to build a
+deck crypt of good midcap vampires without using vampires with clunky
+disciplines. There are two good Barons. Such crypt can easily provide three good
+minions in play, all of which can spend their first action bleeding for three on
+stealth, then unlocking and doing something else.
+
+The remaining question for the stealth-bleed backbone is what should be the
+*second* action (the one done after a minion bleeds first). With obfuscate and
+`Opium Den`, I do not need to worry about delivery, so it can be pretty much
+anything. The stealth-bleed nature of the deck has a weaker defensive side and,
+unlike the dementation stealth-bleeds, does not bloat while doing its primary
+job. Hence, it is probably a good idea for the second action to be something
+that makes the deck more resilient. As an inspiration, Dan Gargulák's [tournament-winning deck](https://www.vekn.net/forum/event-reports-and-twd/79780-twd-4th-road-to-pulled-fang-11-hradec-kralove-czech-may-14th-2022)
+used allies such as `Carlton van Wyk` or `Cry Wolf` to defend, `Enchant Kindred`
+to bloat, and `Reckless Agitation` for more ousting power.
+
+I decided to experiment with the Baron angle of Ministry and included `Fee
+Stakes`. Access to more Barons enabled using `Bait and Switch` for bleed
+defense and made political actions more reliable to pass, especially the
+high-impact ones such as `Reckless Agitation` or `Revolutionary Council`.
+
 ## Decklist
 
 ```markdown

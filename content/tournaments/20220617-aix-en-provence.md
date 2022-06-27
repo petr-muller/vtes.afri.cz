@@ -18,6 +18,8 @@ tags:
 
 # Deck: Dabblesnakes
 
+[Dabblesnakes]({{< ref "/decks/20220624-dabblesnakes" >}} "Dabblesnakes")
+
 # Games
 
 ## Game 1: 0VP
@@ -54,8 +56,66 @@ games.
 
 !Malkavian S/B →️ Legionnaire Harbingers →️ me →️ 5ed Ministry S/B →️ Nephandi
 
+This time I contest with my prey instead. We managed to avoid contesting
+the first vampire, but otherwise not a great game because of a lot of
+deal-making. I tried to start slowly and not bleed for much, to not put the
+prey into defensive mode too early. Still, the player did not bring out
+the third vampire and spent the rest of the game on defense, reducing bleeds and
+bloating via `Blood Doll` and `Enchant Kindred` without going forward.
+
+!Malkavian spent two turns bleeding consistently and managed to get the
+Legionnaires relatively low, around eight or nine. Still, my prey spent a bit more
+pool to get a third Harbinger out. There was some table talk, half of the table
+did their thing in their turns, and then the Malkavian started to bleed me. I
+had no idea what was happening, so they told me he and my predator had made a deal.
+The Malkavian would help his prey get the three points and receive the rest,
+explaining that he thinks he can never  oust Legionnaires with `The Unmasking`.
+I was pretty pissed off because this deal was made in French, and I could not
+participate. I decided I would not get anything by calling a judge and simply
+reminded people to speak English for the rest of the game.
+
+I still had enough pool, so I managed to survive for some time, and the Malkavian
+got ousted. I was trying to get through my prey and tried to fire `Reckless
+Agitation` for the oust two times, both to be delayed, first by
+the Nephandi player and then by my predator. I did not have the third attempt
+because the Nephandi player and my predator made another deal (transparently in
+English, this time). Essentially, the Nephandus player gave me (and my barely
+surviving prey) to my predator, who would withdraw, leading to another 3/2 table
+split. Again, we discussed the legality of the deal; I think the Nephandus
+player should not allow the Legionnaires to withdraw after the deals are erased
+in the two-player game because he still has a chance to win it. Still, it is
+apparently legal to do so. He then places a `Haven Uncovered` on my vampire,
+spends the whole turn rushing me, and I simply die to the Legionnaires afterward.
+
 ## Game 3: 0VP
 
 5ed Ministry S/B → me → 5ed Tremere Wall → Black Hand Multiact
+
+Unfortunately, the third game with a potential contest, but at least we avoided
+contesting vampires. The early game was basically a race between the two Ministry
+decks, but the seating was not fortunate for me. The Black Hand deck had a very
+slow setup and barely pressured, so my predator sat comfortably with three
+vampires. I got a ton of pressure, so I only had two minions, but I had `Dabbler`
+on both, so I still had plenty of actions. With a single Baron, I even had
+a vote lock on the table, but I did not see any political action cards for a long
+time, so I spent my second actions bloating pool with `Enchant Kindred`.
+
+The problem is that my prey has great defense compared to me, so the Ministry
+race did not look well for me. Sometimes in the middle of the game, I was
+deciding whether to play the mummy ally or not. I decided to play it, which
+ended up being a mistake: I never used it! Two times, I forgot to increase bleed,
+and I was not blocking any predator's actions in the hope their hand gets stuck
+with stealth cards, so I could not use it otherwise.
+
+I had a chance to oust my prey in two turns if everything went well. I relied
+on my predator hot having bleed increases, or at least not too many of them. He
+ran out of them the previous turn, so I feel safe with eight pool. I ran a bleed
+and a `Reckless Agitation` to bring my prey down to six, hoping to do more damage
+with the second vampire and have a chance to oust the next turn. The crosstable
+player delayed the vote, fearing I would die in the meantime, leaving his
+predator very weak and giving him a chance for two fast Victory Points.
+Unfortunately, that turned out right because my predator drew into bleed
+increases, so I died on the exact amount. Not playing that mummy earlier could
+have given me one more turn.
 
 # Overall

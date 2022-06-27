@@ -51,7 +51,27 @@ table in the end.
 
 ## Game 2: 0VP
 
-me →️ 5ed Banu Haqim Combat →️ 5ed Banu Haqim Bruise Bleed →️ Shambling →️ Ravnos Breed & Boon
+me →️ 5ed Banu Haqim Combat →️ 5ed Banu Haqim Bruise Bleed →️ Shamblings →️ Ravnos Breed & Boon (Alain)
+
+With three Banu on the table, there was a lot of fear of contesting, but it
+mostly hurt the two other decks; I played a different crypt. Prey was really slow
+in getting minions out on the table and eventually brought up `Kasim Bayar`. I
+had a good master start, and Ravnos were quite slow too, so I tried going
+forward as fast as possible.
+
+`Shambling Hordes` player tried to negotiate with his predator, meaning to stop
+Alain while possible, but his predator felt well without pressure, refused any
+deals, and heavily bled him instead. The Shambling player then made a deal with
+Alain, and they started to play as a team from that moment. He concentrated
+on defense, bounced bleeds to me, and Alain helped keep him alive
+with `Consanguineous Boon`.
+
+I tried to talk to my prey about options to avoid giving the game to Ravnos
+that easily, but he refused to even speak to me and started rushing backward;
+the guy literally did nothing else in the whole game except for rushing backward.
+This led to some really over-the-top combats and several torporized vampires on
+both sides. This kills me backward, of course, but I would not have a chance
+anyway; Alain already had a horde of vampires without any opposition.
 
 ## Game 3: 0VP
 
