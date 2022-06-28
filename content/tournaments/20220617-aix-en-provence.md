@@ -16,9 +16,41 @@ tags:
 - "tournament"
 ---
 
+Finally, the Grand Prix is back after getting canceled two years in a row (fuck
+COVID). After missing the (announced late and too remote) tournament in Hyvinkää,
+Finland, I was happy to visit the beautiful city of Aix-en-Provence after ten
+years, this time to play some V:tES.
+
+Aix is easily reachable from Marseille airport, served by Ryanair from both
+Vienna and Prague. My original plan was to stay in Aix from Thursday to
+Tuesday, but Ryanair canceled my Thursday flight, so I had to take an earlier one
+on Tuesday. I decided to spend these two additional days in Marseille, also a
+fascinating, lively city to visit. I spent two nights in a hostel (still not too
+old for that), then I moved to my Airbnb in Aix. I was happy to discover that my
+Airbnb is around 50 meters from the tournament venue without really trying.
+
+The venue was a comfortable, air-conditioned board game pub with big tables
+and served a nice buffet during the event, which was great because there was no
+need for prolonged lunch breaks between rounds. The tournament was surprisingly
+small (I think it was the smallest GP I ever attended), with just 24 players.
+Almost all were French; aside from the two of us from Czechia, there was also
+one Italian player.
+
 # Deck: Dabblesnakes
 
-[Dabblesnakes]({{< ref "/decks/20220624-dabblesnakes" >}} "Dabblesnakes")
+I was aware of the French play style with a lot of table talk and deals, and
+I was also aware that I would not be likely able to fully participate in this
+style. One reason is the language barrier, and the second reason is that I am
+used to a completely different style of play: there are not that many outright
+table split deals done in the first 30 minutes of the game anywhere else. Hence,
+I wanted to play something self-reliant, not too sensitive to table talk and
+deals.
+
+I was impressed by the record of the new Ministry decks in the recent Czech
+tournaments, both by their results and gameplay. They are essentially midcap
+stealth-bleed decks with multiact capability. Multiact stealth-bleed sounded
+like a good, independent option, albeit a bit of a glass cannon, so I decided to
+go with that. <!-- I am describing the deck in more details in my [deck notes]({{< ref "/" >}} "Dabblesnakes"). -->
 
 # Games
 
@@ -111,7 +143,7 @@ I had a chance to oust my prey in two turns if everything went well. I relied
 on my predator hot having bleed increases, or at least not too many of them. He
 ran out of them the previous turn, so I feel safe with eight pool. I ran a bleed
 and a `Reckless Agitation` to bring my prey down to six, hoping to do more damage
-with the second vampire and have a chance to oust the next turn. The crosstable
+with the second vampire and have a chance to oust the next turn. The cross-table
 player delayed the vote, fearing I would die in the meantime, leaving his
 predator very weak and giving him a chance for two fast Victory Points.
 Unfortunately, that turned out right because my predator drew into bleed
@@ -119,3 +151,32 @@ increases, so I died on the exact amount. Not playing that mummy earlier could
 have given me one more turn.
 
 # Overall
+
+Turns out contesting in all three tournament games and finding myself on the
+wrong side of several table-split deals is not good for one's tournament record.
+I was prepared to see Ministry decks because their fifth edition preconstructed
+deck is pretty good by itself, but contesting three times is just unlucky. Not
+doing a single VP is disappointing, but I still think the deck is good.
+It certainly works better in games where most players are at least trying to oust
+their prey, though.
+
+There are two slightly annoying elements of "French VtES": early table split
+deals and the fact that many (not all!) players will just not play the game in
+English. The former is just a difference in play style. Many people are happy to
+decide that they cannot oust their prey very early in the game and accept a 3/2
+or even an X/1 table split deal. I think some players are very good at exploiting
+this tendency; this is an excellent skill to possess in such an environment.
+
+The latter is much more problematic for me as a foreign player. I do not
+blame the people whose English is not great: that is fine. But I have found that
+even people who *can* speak English will very often drop into French during the
+game. Often, they offer a translation *after* that happens (*"we were speaking
+about..."*), but that denies participation. This was happening a lot in my games
+and generally spoiled the whole experience for me, at least of the actual Grand
+Prix tournament, to the point of considering not participating in the tournament
+on Sunday. In the end, I played it <!--[played it]({{< ref "/" >}} "Persistent Echo")-->
+and found the experience much better, for whatever reason. Maybe I was just
+unlucky on the first day.
+
+The next Grand Prix is held in Malmö, Sweden. I am attending, and I hope I
+finally break my string of eight tournament games without a single Victory Point.
