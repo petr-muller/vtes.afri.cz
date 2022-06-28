@@ -38,7 +38,8 @@ The remaining question for the stealth-bleed backbone is what should be the
 anything. The stealth-bleed nature of the deck has a weaker defensive side and,
 unlike the dementation stealth-bleeds, does not bloat while doing its primary
 job. Hence, it is probably a good idea for the second action to be something
-that makes the deck more resilient. As an inspiration, Dan Gargulák's [tournament-winning deck](https://www.vekn.net/forum/event-reports-and-twd/79780-twd-4th-road-to-pulled-fang-11-hradec-kralove-czech-may-14th-2022)
+that makes the deck more resilient. As an inspiration, Dan
+Gargulák's [tournament-winning deck](https://www.vekn.net/forum/event-reports-and-twd/79780-twd-4th-road-to-pulled-fang-11-hradec-kralove-czech-may-14th-2022)
 used allies such as `Carlton van Wyk` or `Cry Wolf` to defend, `Enchant Kindred`
 to bloat, and `Reckless Agitation` for more ousting power.
 
@@ -124,7 +125,36 @@ Combat (6)
 
 ## Ousting
 
+I want to directly attack my prey's pool by sustained increase bleeds at stealth;
+ideally, I should do at least three such bleeds per turn. The key card for
+bleeding is `The Platinum Protocol` which alone is a bleed for two at one stealth.
+The permanent locations (`Onion Den`, `Club Illusion`, `Anarch Railroad`) allow
+sustaining bleeds at stealth without spending card. Bounced bleeds can further
+increase my bleed pressure.
+
+I want to use high-impact political actions `Reckless Agitation` and `Revolutionary
+Council` as finishers. I should usually have at least two or three barons on the
+table, so it is not impossible to have a vote lock, but these actions can also
+be traded with other players when necessary. The `Revolutionary Council` is not
+used in a Death-Star Cannon fashion, because the deck does not breed that well
+and will rarely have more than three or four vampires. Instead, the Council
+should be used to remove annoying locations and equipment from the table, with
+the pool damage as a nice bonus. I want to play the Council only after the
+bleeds are done, my vampires unlocked and there is no better "second action" to
+play (or when there is some really important target to remove from the table).
+`Eat the Rich` is a nice one-of that can be recurred by `Garibaldi-Meucci Museum`:
+sometimes it will be good, other times not so much.
+
 ## Survivability
+
+Having access to Barons allows me to reliably use `Bait and Switch` to bounce
+bleeds, so I should prioritize always having a Baron, and make sure that I either
+have a wake or I keep one untapped at the end of my turn. `Vessel` and `Enchant
+Kindred` provide rather modest pool gain; they help but rarely outbloat the more
+aggressive predators. I want to be an aggressive deck myself, so like any stealth
+bleed, I want to keep gaining pool via ousting.
+
+I should take any opportunity to steal a defensive ally with `Entrancement`.
 
 ## Likes
 
@@ -133,6 +163,12 @@ Combat (6)
 ## Combat
 
 ## Backbone Cards
+
+- `Dabbler`
+- `The Platinum Protocol`
+- `Enchant Kindred`
+- `Club Illusion`
+- `Garibaldi-Meucci Museum`
 
 ## Early Game
 

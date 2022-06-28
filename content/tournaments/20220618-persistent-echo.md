@@ -75,6 +75,18 @@ anyway; Alain already had a horde of vampires without any opposition.
 
 ## Game 3: 0VP
 
-Nosferatu Combat → 5ed Banu Haqim Combat → Ventrue Whining → Brujah Vote → me 
+Nosferatu POT Combat(?) → 5ed Banu Haqim Combat → Ventrue Whining → Brujah Vote → me
+
+I met the Banu Haqim rush from the previous table in this game again; this time
+he was at least on the other side of the table. This was a very weird game;
+two players basically gave up winning right from the start. My prey complained
+about not having a Baron, and my grandpredator started full-scale whining
+basically from round two, because the Banu Haqim did not allow him to do pretty
+much anything.
+
+The game ended rather quickly for me, because both my cross-table "allies"
+supported my predator's political actions to quickly kill me. My grandpredator
+did it because (yet another) table split deal with my predator, which made sense,
+but I have no idea what my crosstable Banu Haqim player's plan was.
 
 # Overall
