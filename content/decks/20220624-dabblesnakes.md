@@ -125,9 +125,9 @@ Combat (6)
 
 ## Ousting
 
-I want to directly attack my prey's pool by sustained increase bleeds at stealth;
+I want to directly attack my prey's pool by sustained increased bleeds at stealth;
 ideally, I should do at least three such bleeds per turn. The key card for
-bleeding is `The Platinum Protocol` which alone is a bleed for two at one stealth.
+bleeding is `The Platinum Protocol` which is a bleed for two at one stealth.
 The permanent locations (`Onion Den`, `Club Illusion`, `Anarch Railroad`) allow
 sustaining bleeds at stealth without spending card. Bounced bleeds can further
 increase my bleed pressure.
@@ -136,25 +136,32 @@ I want to use high-impact political actions `Reckless Agitation` and `Revolution
 Council` as finishers. I should usually have at least two or three barons on the
 table, so it is not impossible to have a vote lock, but these actions can also
 be traded with other players when necessary. The `Revolutionary Council` is not
-used in a Death-Star Cannon fashion, because the deck does not breed that well
+used in a Death-Star Cannon fashion because the deck does not breed well
 and will rarely have more than three or four vampires. Instead, the Council
 should be used to remove annoying locations and equipment from the table, with
 the pool damage as a nice bonus. I want to play the Council only after the
-bleeds are done, my vampires unlocked and there is no better "second action" to
-play (or when there is some really important target to remove from the table).
+bleeds are done, my vampires have unlocked, and there is no better "second action"
+to play (or when there is some essential target to remove from the table).
 `Eat the Rich` is a nice one-of that can be recurred by `Garibaldi-Meucci Museum`:
 sometimes it will be good, other times not so much.
 
 ## Survivability
 
 Having access to Barons allows me to reliably use `Bait and Switch` to bounce
-bleeds, so I should prioritize always having a Baron, and make sure that I either
-have a wake or I keep one untapped at the end of my turn. `Vessel` and `Enchant
-Kindred` provide rather modest pool gain; they help but rarely outbloat the more
-aggressive predators. I want to be an aggressive deck myself, so like any stealth
-bleed, I want to keep gaining pool via ousting.
+bleeds, so I should prioritize always having a Baron and ensure that I either
+have a wake or keep one untapped at the end of my turn. I should prioritize
+having more Barons on tables with political threats: it should not be a problem
+to have three Barons, which is usually enough to maintain reasonable vote power
+to deal with anything other than a dedicated political predator.
 
-I should take any opportunity to steal a defensive ally with `Entrancement`.
+`Vessel` and `Enchant Kindred` provide a modest cushion after I bring out three
+vampires and pay for some master cards but rarely outbloat the more aggressive
+predators.  I want to be an aggressive deck myself, so like most stealth bleed
+decks, I want to keep gaining pool via ousting.
+
+I should take any opportunity to steal a defensive ally with `Entrancement`; one
+blocking Legionnaire, `Carlton van Wyk` or anything else at least minimally good
+in defense plugs one of the weak spots of the deck.
 
 ## Likes
 
