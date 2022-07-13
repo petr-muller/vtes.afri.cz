@@ -2,7 +2,7 @@
 title: "Persistent Echo"
 date: 2022-06-18T00:00:00+02:00
 draft: true
-description: | 
+description: |
    The Persistent Echo was a second-day, more casual tournament held after the
    Grand Prix tournament in Aix-en-Provence. After hesitating whether to even
    attend, I chose to participate. I kept being seated on tables next to other
@@ -13,7 +13,36 @@ categories:
 - "tournaments"
 ---
 
+The Persistent Echo was a second-day, more casual tournament held after the
+[Grand Prix tournament in Aix-en-Provence]({{< ref "/tournaments/20220617-aix-en-provence" >}} "Grand Prix tournament in Aix-en-Provence").
+I did not have much fun in the Grand Prix because of the French deal-making style,
+so I hesitated whether to attend the Sunday tournament. Ultimately, I chose
+to participate because the threshold was so low (50m walking distance and
+complimentary food do that). I only brought the [Banu Haqim Legacy]({{< ref "/decks/20220109-banu-haqim-legacy" >}} "Banu Haqim Legacy")
+deck with the intent to play it in the second tournament. Unfortunately, I kept
+being seated on tables next to other Banu Haqim decks, leading to some pretty
+spectacular combat and a lot of fun lose-lose situations, but also
+a disappointing result of 0VP.
+
+Despite the poor results, I had much more fun in this tournament than the
+previous day. I found the games more pleasant, and the people I played with were
+happy to speak English, so I felt less excluded. The deal-making style did not
+change, but the outright table split only happened in one of the games.
+
 # Deck: Banu Haqim Legacy
+
+Although it is pretty clear the deck is not competitive, I still have fun playing
+it in the lower-tier tournaments. It needs metagame to turn out right and some
+luck in seating. That was unfortunately not the case in this tournament: I was
+basically meeting just other combats, and to add insult to injury, I was running
+into other Banu Haqim all the time. The deck can punish even heavy combat decks
+when needed, but it is, in fact, built to prey on different targets. It needs
+to spend too many resources to do so, and doing too many combats usually results
+in a draw in the long term: both sides spend a lot of resources just to keep up,
+and someone else usually takes advantage of that.
+
+You can find old notes on a previous version of this deck [here]({{< ref "/decks/20220109-banu-haqim-legacy" >}} "Banu Haqim Legacy"),
+although I should probably write an update on the current version of the deck.
 
 # Games
 

@@ -86,6 +86,12 @@ disqusShortname = ""
   [params.tiles]
     enable = true
 #    [[params.tiles.showcase]]
+#      title = "Grand Prix: Malmö"
+#      subtitle = "..."
+#      type = "tournament report"
+#      image = "tournaments/malmo.jpg"
+#      url = "tournaments/20220702-gp-malmo"
+#    [[params.tiles.showcase]]
 #      title = "Dabblesnakes"
 #      subtitle = "A stealth-bleed deck using V5 Ministry that uses Dabbler and Crimeth, Inc. to run multiple actions"
 #      type = "deck notes"
