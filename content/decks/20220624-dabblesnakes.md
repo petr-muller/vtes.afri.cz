@@ -165,6 +165,24 @@ in defense plugs one of the weak spots of the deck.
 
 ## Likes
 
+The deck likes the situation where it can race with a prey that also has no
+choice but to go forward. In the ideal case, it will win the race and
+oust the weakened grandprey fast afterward. When it loses the race, the six pool is
+often not enough to keep the prey alive for too long because the deck can deliver
+quite a lot of damage on its good turns: it can easily bleed for six
+to nine and follow it up with a `Reckless Agitation`.
+
+The modest amount of Baron titles makes the deck a medium voting power on the table.
+It can usually overpower tables without a dedicated political deck, although
+the lack of `Propaganda of the Deed` limits its lunge capability. On most political
+tables, it should be able to broker a deal or two and avoid receiving
+collateral damage from others' political actions.
+
+I want to be fast and aggressive, so it helps when there are decks with a slower
+setup on both sides of the table. Opponents who attempt to block at least
+occasionally make the deck flow better by allowing it to play more cards, but
+a dedicated wall deck is often a problem.
+
 ## Risks
 
 ## Combat
