@@ -1,7 +1,7 @@
 ---
 title: "Persistent Echo"
 date: 2022-06-18T00:00:00+02:00
-draft: true
+draft: false
 description: |
    The Persistent Echo was a second-day, more casual tournament held after the
    Grand Prix tournament in Aix-en-Provence. After hesitating whether to even
@@ -106,16 +106,23 @@ anyway; Alain already had a horde of vampires without any opposition.
 
 Nosferatu POT Combat(?) → 5ed Banu Haqim Combat → Ventrue Whining → Brujah Vote → me
 
-I met the Banu Haqim rush from the previous table in this game again; this time
-he was at least on the other side of the table. This was a very weird game;
-two players basically gave up winning right from the start. My prey complained
+I met the Banu Haqim rush from the previous table in this game again; this time,
+he was at least on the other side of the table. This was a bizarre game;
+two players gave up winning right from the start. My prey complained
 about not having a Baron, and my grandpredator started full-scale whining
-basically from round two, because the Banu Haqim did not allow him to do pretty
+basically from round two because the Banu Haqim did not allow him to do pretty
 much anything.
 
-The game ended rather quickly for me, because both my cross-table "allies"
-supported my predator's political actions to quickly kill me. My grandpredator
-did it because (yet another) table split deal with my predator, which made sense,
-but I have no idea what my crosstable Banu Haqim player's plan was.
+The game ended rather quickly for me because both my crosstable "allies"
+supported my predator's political actions to promptly kill me. My grandpredator
+did it because (yet another) table split deal with my predator. That part at least
+made sense. I have no idea what my crosstable Banu Haqim player's plan was.
 
 # Overall
+
+In the end, I was happy I attended. Despite yet another disappointing result,
+at least I had fun. I am unhappy about the streak of bad results; not getting
+into the finals is one thing, but not getting a single Victory Point is another.
+Part of that is variance, and a part is deck selection, but it is getting
+a little disheartening. I do not expect to win every tournament I attend, but
+it would be nice to have at least some success once in a while.

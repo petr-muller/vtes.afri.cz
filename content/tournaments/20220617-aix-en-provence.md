@@ -174,7 +174,7 @@ game. Often, they offer a translation *after* that happens (*"we were speaking
 about..."*), but that denies participation. This was happening a lot in my games
 and generally spoiled the whole experience for me, at least of the actual Grand
 Prix tournament, to the point of considering not participating in the tournament
-on Sunday. In the end, I played it <!--[played it]({{< ref "/" >}} "Persistent Echo")-->
+on Sunday. In the end, I [played it]({{< ref "/" >}} "Persistent Echo")
 and found the experience much better, for whatever reason. Maybe I was just
 unlucky on the first day.
 
