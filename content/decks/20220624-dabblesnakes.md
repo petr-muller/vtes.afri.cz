@@ -19,7 +19,7 @@ single card, which can be made more potent with `Revelation of the Serpent`
 efficiently. A deck with a stealth-bleed backbone using these two cards can
 also use several multiact options, most of which are also very efficient. The
 Revelation modifier itself can unlock the bleeding vampire for the cost
-of burning two corruption counters, conveniently placed on minions by the
+of burning two corruption counters placed on minions conveniently by the
 Protocol. The latter card alone enables `Dabbler`, which *also* has a second
 blood-gaining mode when there is no utility in unlocking after the first action.
 Lastly, anarch vampires with Protean have access to `CrimethInc.` which unlocks
@@ -129,7 +129,7 @@ I want to directly attack my prey's pool by sustained increased bleeds at stealt
 ideally, I should do at least three such bleeds per turn. The key card for
 bleeding is `The Platinum Protocol` which is a bleed for two at one stealth.
 The permanent locations (`Onion Den`, `Club Illusion`, `Anarch Railroad`) allow
-sustaining bleeds at stealth without spending card. Bounced bleeds can further
+sustaining bleeds at stealth without spending cards. Bounced bleeds can further
 increase my bleed pressure.
 
 I want to use high-impact political actions `Reckless Agitation` and `Revolutionary
@@ -181,19 +181,53 @@ collateral damage from others' political actions.
 I want to be fast and aggressive, so it helps when there are decks with a slower
 setup on both sides of the table. Opponents who attempt to block at least
 occasionally make the deck flow better by allowing it to play more cards, but
-a dedicated wall deck is often a problem.
+a dedicated wall deck is often a problem long-term. In such cases, it is critical
+to have at least one (but better both) location that provides permanent stealth,
+otherwise the deck runs out of stealth cards fast.
 
 ## Risks
 
+To function correctly, the deck is somewhat sensitive to having access to many
+cards at any moment. For each action, I need `Platinum Protocol` with either
+a `Dabbler` minion or a `CrimethInc.`, possibly with one or more stealth cards,
+and finally a “second action” card, such as `Enchant Kindred` or a `Fee Stake`.
+I have seen failure cases where my hand got stuck with too many cards of a single
+type; such cases are difficult to recover because of a lack of card flow.
+
+V5 Ministry decks seem to be popular at the moment, and because their crypt is
+so limited, the risk of contesting is high. Contesting a vampire is backbreaking.
+
+Having played the deck for some time now, it is a low-floor, high-ceiling deck,
+depending on whether I draw the high-impact master cards soon, especially
+`Dabbler` and `Club Illusion`. The first one is critical, and I am convinced
+the deck needs more; I would happily play four in the 80-ish cards. Having
+the `Club Illusion` on the table increases ousting power but also makes it
+necessary to have a blood-bloating solution, such as `Nonu Dis` or `Carfax Abbey`.
+Not drawing these cards soon enough can lead to some underwhelming results.
+
+Ministry are now recognized as primarily a stealth-bleed clan, which some preys
+will backoust without remorse. Even the ones that do not will likely focus a lot
+on defense. They will not overextend or leave shields down at any given moment.
+This means that the first oust is usually the hardest and takes a bit of time,
+giving the grandprey space to potentially dominate the table. The deck does not
+have a plan B when being aggressive is not a good option: there are not that many
+resource-building actions the deck can take.
+
+Lastly, as discussed in [Survivability](#survivability), the deck only has modest
+pool gain and will rarely operate with a huge pool cushion. This makes it
+vulnerable to decks that can produce a significant amount of damage.
+
 ## Combat
+
+The deck is
 
 ## Backbone Cards
 
-- `Dabbler`
-- `The Platinum Protocol`
-- `Enchant Kindred`
-- `Club Illusion`
-- `Garibaldi-Meucci Museum`
+- `Dabbler`: the namesake of the deck, combos with `Platinum Protocol` to enable consistent multi-act capability
+- `The Platinum Protocol`: bleed for two at stealth is a basic oust mechanism, enables `Dabbler`
+- `Enchant Kindred`: modest pool gain, makes it possible to play with three minions
+- `Club Illusion`: significantly increases ousting power
+- `Garibaldi-Meucci Museum`: recurses key cards needed at the moment, usually `Bait and Switch`, `Platinum Protocol` or `Reckless Agitation`
 
 ## Early Game
 

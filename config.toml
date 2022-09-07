@@ -54,6 +54,9 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Decks"
       url = "decks"
+    [[params.navigation.links]]
+      name = "Thoughts"
+      url = "thoughts"
 
 #    [[params.navigation.links]]
 #      name = "Decks"
