@@ -54,6 +54,9 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Decks"
       url = "decks"
+    [[params.navigation.links]]
+      name = "Thoughts"
+      url = "thoughts"
 
 #    [[params.navigation.links]]
 #      name = "Decks"
@@ -145,6 +148,12 @@ disqusShortname = ""
       type = "tournament report"
       image = "tournaments/elimelech.png"
       url = "tournaments/20200725-brno"
+    [[params.tiles.showcase]]
+      title = "Pulled Fang #9"
+      subtitle = "0GW 2VP playing Enkidu Block in 17-player Czech Nationals tournament"
+      type = "tournament report"
+      image = "tournaments/pulledfang.jpg"
+      url = "tournaments/20201001-pulled-fang-9"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
