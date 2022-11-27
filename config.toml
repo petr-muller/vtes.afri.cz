@@ -94,12 +94,12 @@ disqusShortname = ""
 #      type = "tournament report"
 #      image = "tournaments/malmo.jpg"
 #      url = "tournaments/20220702-gp-malmo"
-#    [[params.tiles.showcase]]
-#      title = "Dabblesnakes"
-#      subtitle = "A stealth-bleed deck using V5 Ministry that uses Dabbler and Crimeth, Inc. to run multiple actions"
-#      type = "deck notes"
-#      image = "decks/dabbler.jpg"
-#      url = "decks/20220624-dabblesnakes"
+    [[params.tiles.showcase]]
+      title = "Dabblesnakes"
+      subtitle = "A stealth-bleed deck using V5 Ministry that uses Dabbler and Crimeth, Inc. to run multiple actions"
+      type = "deck notes"
+      image = "decks/dabbler.jpg"
+      url = "decks/20220624-dabblesnakes"
     [[params.tiles.showcase]]
       title = "Persistent Echo"
       subtitle = "0GW 0VP playing Banu Haqim Legacy in 15-player tournament in Aix-en-Provence, France"
