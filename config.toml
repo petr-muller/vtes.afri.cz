@@ -88,12 +88,12 @@ disqusShortname = ""
   # Tiles Section
   [params.tiles]
     enable = true
-#    [[params.tiles.showcase]]
-#      title = "Grand Prix: Malmö"
-#      subtitle = "..."
-#      type = "tournament report"
-#      image = "tournaments/malmo.jpg"
-#      url = "tournaments/20220702-gp-malmo"
+    [[params.tiles.showcase]]
+      title = "Grand Prix: Malmö"
+      subtitle = "Another 0GW 0VP playing Dabblesnakes in a 37-player tournament in Malmö, Sweden"
+      type = "tournament report"
+      image = "tournaments/malmo.jpg"
+      url = "tournaments/20220702-gp-malmo"
     [[params.tiles.showcase]]
       title = "Dabblesnakes"
       subtitle = "A stealth-bleed deck using V5 Ministry that uses Dabbler and Crimeth, Inc. to run multiple actions"
