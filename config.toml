@@ -89,6 +89,12 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     [[params.tiles.showcase]]
+      title = "Banu Haqim Anathema"
+      subtitle = "Blood denial combat deck with titled Banu Haqim and Anathema"
+      type = "deck notes"
+      image = "decks/anathema.jpg"
+      url = "decks/20240716-banu-haqim-anathema"
+    [[params.tiles.showcase]]
       title = "Grand Prix: Malmö"
       subtitle = "Another 0GW 0VP playing Dabblesnakes in a 37-player tournament in Malmö, Sweden"
       type = "tournament report"
@@ -101,29 +107,11 @@ disqusShortname = ""
       image = "decks/dabbler.jpg"
       url = "decks/20220624-dabblesnakes"
     [[params.tiles.showcase]]
-      title = "Persistent Echo"
-      subtitle = "0GW 0VP playing Banu Haqim Legacy in 15-player tournament in Aix-en-Provence, France"
-      type = "tournament report"
-      image = "tournaments/persistentecho.jpg"
-      url = "tournaments/20220618-persistent-echo"
-    [[params.tiles.showcase]]
       title = "Grand Prix Aix-en-Provence"
       subtitle = "0GW 0VP playing Dabblesnakes in 24-player Grand Prix in Aix-en-Provence, France"
       type = "tournament report"
       image = "tournaments/aix.jpg"
       url = "tournaments/20220617-aix-en-provence"
-    [[params.tiles.showcase]]
-      title = "5th Road to Pulled Fang #11"
-      subtitle = "0GW 1VP playing Infernal Princes of Anarchy in 20-player tournament in Brno, CZ"
-      type = "tournament report"
-      image = "tournaments/arishat.png"
-      url = "tournaments/20220604-road-to-pulled-fang-05"
-    [[params.tiles.showcase]]
-      title = "4th Road to Pulled Fang #11"
-      subtitle = "0GW 0VP playing Enkidu Block in 21-player tournament in Hradec Králové, CZ"
-      type = "tournament report"
-      image = "tournaments/20220514-hk.png"
-      url = "tournaments/20220519-road-to-pulled-fang-04"
     [[params.tiles.showcase]]
       title = "Wagner's Wet Dream"
       subtitle = "A Valkyrie swarm-bleed deck with Revolutionary Council as a finisher"
@@ -142,18 +130,6 @@ disqusShortname = ""
       type = "deck notes"
       image = "decks/strohmann.png"
       url = "decks/20211203-nosferatu-bigcap-toolbox"
-    [[params.tiles.showcase]]
-      title = "Summer Tournament in Brno"
-      subtitle = "0GW 3VP playing AUS OBF Black Hand in 15-player tournament"
-      type = "tournament report"
-      image = "tournaments/elimelech.png"
-      url = "tournaments/20200725-brno"
-    [[params.tiles.showcase]]
-      title = "Pulled Fang #9"
-      subtitle = "0GW 2VP playing Enkidu Block in 17-player Czech Nationals tournament"
-      type = "tournament report"
-      image = "tournaments/pulledfang.jpg"
-      url = "tournaments/20201001-pulled-fang-9"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
