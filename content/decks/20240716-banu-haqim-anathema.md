@@ -7,8 +7,8 @@ description: |
     packages, such as Animalism, Dust Up and Guns or Nephandi. Bloating blood
     enables blood gain via Villein, and plenty of Second Traditions provide
     enough defense to compensate for the lack of bleed bounce. Blood denial
-    pushes pushes opposing vampires into sticky situations, hopefully to get
-    burned by Marisa Fletcher or Anathema. 
+    pushes opposing vampires into sticky situations, hopefully to get burned
+    by Marisa Fletcher or Anathema.
 image: anathema.jpg
 categories:
 - "decks"
