@@ -93,7 +93,7 @@ disqusShortname = ""
       subtitle = "Toreador Vote deck with Diana Iadanza and tap'n'bleed angle"
       type = "deck notes"
       image = "decks/diana.webp"
-      url = "decks/20260110-diana-bleed-n-tap.md"
+      url = "decks/20260110-diana-bleed-n-tap"
     [[params.tiles.showcase]]
       title = "Banu Haqim Anathema"
       subtitle = "Blood denial combat deck with titled Banu Haqim and Anathema"
