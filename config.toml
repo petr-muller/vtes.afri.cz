@@ -89,6 +89,12 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     [[params.tiles.showcase]]
+      title = "Diana Vote (Girl Walks into PoG)"
+      subtitle = "Toreador Vote deck with Diana Iadanza and tap'n'bleed angle"
+      type = "deck notes"
+      image = "decks/diana.webp"
+      url = "decks/20260110-diana-bleed-n-tap.md"
+    [[params.tiles.showcase]]
       title = "Banu Haqim Anathema"
       subtitle = "Blood denial combat deck with titled Banu Haqim and Anathema"
       type = "deck notes"
